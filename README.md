@@ -1,2 +1,2 @@
 # LITA_CLASS-DOCUMENTATION
-This my first project while learning Data Analysis
+This is my first project while learning Data Analysis
